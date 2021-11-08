@@ -1,2 +1,2 @@
 # tribillionmyth
-New static website
+my website
